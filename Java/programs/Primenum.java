@@ -18,8 +18,8 @@ public class Primenum {
         }
 
         if (i == n)
-            System.out.println(n + " is a prime number.");
+            System.out.println(n + " is a prime number");
         else
-            System.out.println(n + " is not a prime number.");
+            System.out.println(n + " is not a prime number");
     }
 }
