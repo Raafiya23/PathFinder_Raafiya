@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class LargestArray{
     public static void main(String[] args) {
         int[] arr = {10,25,3,98,6};
