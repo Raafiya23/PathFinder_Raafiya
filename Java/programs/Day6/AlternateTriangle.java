@@ -4,7 +4,7 @@ public class AlternateTriangle{
     public static void main(String[] args) {
             Scanner sc = new Scanner(System.in);
             System.out.print("Enter row: ");
-            int n = sc.nextInt();;
+            int n = sc.nextInt();
             for (int i = 1; i <= n; i++) {
                 int value;
                 if (i % 2 == 1) {
