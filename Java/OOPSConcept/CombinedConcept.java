@@ -1,8 +1,11 @@
+//Abstract class
 abstract class Vehicles{
+    //final method
     final void startsEngine(){
         System.out.println("Engine Started..");
     }
 
+    //static method
     static String getVehicleType(){
         return "Generic Vehicle";
     }
